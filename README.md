@@ -1,7 +1,8 @@
 # Photopify
 
-Python Microservice Web App (with React, Django, Flask, and more)
+
 ![logo](assets/logo.png)
+Python Microservice Web App (with React, Django, Flask, and more)
 [Back-end repo](https://github.com/mjdfx073131/photopify-backend)
 
 [Front-end repo](https://github.com/mjdfx073131/photopify-frontend)
