@@ -40,5 +40,5 @@ According to James Lewis and Martin Fowler:
 
 > Microservice or the microservice architectural style is an approach to developing a single application as a suite of small services, each running in its own process and communicating with lightweight mechanisms, often an HTTP resource API.
 
-To start explaining the microservices style, let's talk a little bit about monolithic systems. A monolithic application is build as a single, autonomous unit. It will affect the entire system if a major change is made. Microservices, however, solve this challenge by being as modular as possible. To be more concise, they help build an application as a suite of small services, each running in its own process and are independently deployable.
+To start explaining the microservices style, let's talk a little bit about monolithic systems. A monolithic application is built as a single, autonomous unit. It will affect the entire system if a major change is made. Microservices, however, solve this challenge by being as modular as possible. To be more concise, they help build an application as a suite of small services, each running in its own process and are independently deployable.
 ![Monoliths and Microservice](assets/sketch.png)
